@@ -1,2 +1,4 @@
 one line;
 another line
+third line
+forth line
